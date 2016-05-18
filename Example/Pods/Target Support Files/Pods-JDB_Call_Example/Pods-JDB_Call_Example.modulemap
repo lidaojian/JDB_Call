@@ -1,0 +1,6 @@
+framework module Pods_JDB_Call_Example {
+  umbrella header "Pods-JDB_Call_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

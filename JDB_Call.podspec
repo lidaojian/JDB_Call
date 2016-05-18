@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = "JDB_Call"
   s.version          = "0.1.0"
-  s.summary          = "A short description of JDB_Call."
+  s.summary          = "A Test JDB_Call."
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/JDB_Call"
+  s.homepage         = "https://github.com/lidaojian/JDB_Call"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "lidaojian" => "lidaojian006@163.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/JDB_Call.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/lidaojian/JDB_Call.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

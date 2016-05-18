@@ -1,0 +1,16 @@
+PODS:
+  - JDB_Call (0.1.0)
+
+DEPENDENCIES:
+  - JDB_Call (from `../`)
+
+EXTERNAL SOURCES:
+  JDB_Call:
+    :path: ../
+
+SPEC CHECKSUMS:
+  JDB_Call: c72a60e87fc0d391f94cdfffdb624056c7fff303
+
+PODFILE CHECKSUM: 97cddf864436dd2dcbc19b2c758e221f3943a0c7
+
+COCOAPODS: 1.0.0
