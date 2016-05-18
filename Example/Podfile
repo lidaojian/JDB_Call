@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JDB_Call_Example' do
+  pod 'JDB_Call', :path => '../'
+
+  target 'JDB_Call_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
